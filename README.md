@@ -1,1 +1,5 @@
 # proj-libras
+
+# Bibliotecas utilizadas:
+
+- 
